@@ -47,3 +47,9 @@ Run with coverage report:
     coverage run -m pytest
     coverage report
     coverage html  # open htmlcov/index.html in a browser
+
+Building
+--------
+
+.. image:: https://travis-ci.org/neriberto/flaskr.svg?branch=master
+    :target: https://travis-ci.org/neriberto/flaskr
